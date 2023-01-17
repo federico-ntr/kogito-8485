@@ -17,7 +17,7 @@
 
   <properties>
     <java.version>11</java.version>
-    <kogito.version>1.32.0.Final</kogito.version>
+    <kogito.version>1.31.0.Final</kogito.version>
   </properties>
 
   <dependencyManagement>
